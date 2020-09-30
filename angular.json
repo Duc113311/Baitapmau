@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ogani"
+    }
+  },
+  "defaultProject": "ogani",
+  "cli": {
+    "analytics": "fc2df6f0-c2b0-4262-a6ff-2da37f9a2518"
+  }
 }
